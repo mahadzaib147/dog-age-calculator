@@ -1,0 +1,73 @@
+Akita >>>>>>>>>>>>>>>>> Large
+Alaskan Malamutes >>>>>>> Large
+Aspin >>>>>>>>>>>>>>>>> Medium
+Australian Cattle Dog >>>>>> Medium
+Australian Shepherd >>>>>>> Medium
+Basset Hound >>>>>>>>>>>> Medium
+Beagle >>>>>>>>>>>>>>>>> Small
+Belgian Malinois >>>>>>>>>> Large
+Bernedoodle >>>>>>>>>>>>> Medium
+Bernese Mountain >>>>>>>>> Giant
+Boerboel >>>>>>>>>>>>>>>> Giant
+Border Collie >>>>>>>>>>>>> Medium
+Border Terrier >>>>>>>>>>>> Small
+Boston Terrier >>>>>>>>>>>> Small
+Boxer >>>>>>>>>>>>>>>>>> Large
+Briard >>>>>>>>>>>>>>>>>> Large
+Brittany >>>>>>>>>>>>>>>>> Medium
+Bulldog >>>>>>>>>>>>>>>>> Medium
+Bullmastiffs >>>>>>>>>>>>>> Giant
+Cane Corso >>>>>>>>>>>>>>> Large
+Carpathian Shepherd >>>>>>>> Giant
+Cavachon >>>>>>>>>>>>>>>> Small
+Cavalier King Charles Spaniel > Small
+Cavoodle >>>>>>>>>>>>>>>> Small
+Chesapeake Bay Retriever >>>> Large
+Chihuahua >>>>>>>>>>>>>>> Small
+Chow Chow >>>>>>>>>>>>>> Large
+Chug >>>>>>>>>>>>>>>>>>> Small
+Cockapoo >>>>>>>>>>>>>>>> Small
+Cocker Spaniel >>>>>>>>>>>> Medium
+Coton de Tulear >>>>>>>>>>> Small
+Dachshund >>>>>>>>>>>>>>> Small
+Doberman Pinscher >>>>>>>>> Large
+English Springer Spaniel >>>>> Medium
+Eurasier >>>>>>>>>>>>>>>>> Medium
+French Bulldog >>>>>>>>>>>> Small
+German Shepherd >>>>>>>>>> Large
+German Shorthaired Pointer >>> Large
+Golden Retriever >>>>>>>>>>> Large
+Goldendoodle >>>>>>>>>>>>> Medium
+Great Dane >>>>>>>>>>>>>>> Giant
+Greyhound >>>>>>>>>>>>>>> Large
+Havanese >>>>>>>>>>>>>>>> Small
+Siberian Husky >>>>>>>>>>>> Medium
+Irish Wolfhound >>>>>>>>>>> Giant
+Jack Russell Terrier >>>>>>>>> Small
+Labradoodle >>>>>>>>>>>>>>>> Medium
+Labrador Retriever >>>>>>>>>>> Large
+Maltese >>>>>>>>>>>>>>>>>>> Small
+Mastiffs >>>>>>>>>>>>>>>>>> Giant
+Miniature American Shepherd >>> Medium
+Miniature Schnauzer >>>>>>>>>> Small
+Newfoundlands >>>>>>>>>>>>>> Giant
+Papillons >>>>>>>>>>>>>>>>>> Small
+Pembroke Welsh Corgi >>>>>>>> Medium
+Pitbull >>>>>>>>>>>>>>>>>>> Medium
+Pomeranian >>>>>>>>>>>>>>> Small
+Poodle >>>>>>>>>>>>>>>>>>> Large
+Portuguese Water Dogs >>>>>>> Medium
+Pug >>>>>>>>>>>>>>>>>>>>> Small
+Puggle >>>>>>>>>>>>>>>>>>> Small
+Rottweiler >>>>>>>>>>>>>>>> Large
+Saint Bernard >>>>>>>>>>>>> Giant
+Schnoodle >>>>>>>>>>>>>>> Medium
+Shetland Sheepdog >>>>>>>>> Small
+Shiba Inu >>>>>>>>>>>>>>>> Small
+Shih Tzu >>>>>>>>>>>>>>>> Small
+Spoodle >>>>>>>>>>>>>>>> Small
+Staffordshire Bull Terrier >>>> Medium
+Vizslas >>>>>>>>>>>>> Medium
+Yorkshire Terrier >>>>>> Small
+
+

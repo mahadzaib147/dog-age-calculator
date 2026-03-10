@@ -1,0 +1,39 @@
+plz make me at tool on dog age calculator i and will provide a link plz giv em tool in ux just like him
+https://stokevets.co.nz/pet-advice/pet-age-calculator/
+our tool is just for dog age not for cat but he also add for cat but we have to make only for dog
+plz you have to not use some things from that like this tool cuz i will you provid all thngs which i need that you ahve to make a tool just for user experince like that tool other features which i told you you have to use that ok.......he gives a picture of dog you have to give also pic of cute dog just for engeagment , he give also for cat age but e have to give only for dog, he use slider for age for the dog but intead we have to Add a single age input field that accepts numeric and decimal values for the dog’s age in years, most imporant point he have not give breed section instaed he give section like small medium large and ginat but we have to give breed section in ehich we have to give enlistd breeds and people will select that and calcualte thier breeds age but you have also use Add a searchable breed selector using the specific dog breeds I provide, and if a selected breed is not available, allow a smooth fallback option where the user can choose dog size (small, medium, large, or giant) to continue the calculation without interruption.
+23 breed list is
+Labrador Retriever
+Bulldog
+French Bulldog
+Pitbull
+Golden Retriever
+Beagle
+Poodle
+Husky
+Dachshund
+Yorkshire Terrier
+Boxer
+Chihuahua
+Havanese
+Bernese Mountain
+Pomeranian
+Shih Tzu
+Cavoodle
+Cocker Spaniel
+Maltese
+Border Collie
+Jack Russell Terrier
+Rottweiler
+these are 23 breeds which we listed and dont forget to add serach option and list should not be so boring should be engeiang eveythning should be engaing and best for user experinve and add seo freindly lines where needed
+ok then calculate option than the link i sent after calcualtion he give age in human yeras and his life stage badge like he consider adult puppy etc or what and morever he use labels for life stage like adult aldocsnet etc which is very enging and you have also give relsut just like that. After calculating the dog’s age, display a short line comparing the dog’s age to a human life stage in an emotional, easy-to-understand way.
+and but we have to give 3 more option but these three option should be in minimized or collapsed
+Based on the dog’s age, show an energy level indicator (High, Moderate, or Low) and add 2 short, SEO-friendly lines describing the dog’s typical energy and activity needs at that age.
+Based on the dog’s age, display an activity capacity indicator that shows how much physical activity is suitable for the dog at this age, using a clear label and 1–2 short SEO-friendly lines.
+plz make me a good tool
+Show a simple age progress indicator that reflects how far the dog is within its overall life stage based on age.
+These three option should be in minimized way and if user want to check he will clik and check that 
+we have to give only two main things age in human years and their life satge with label and emotional hok 
+all of the things should be in best approach no mistakes just our first priority is to make user happy and gets rank well on google with this more features fast mobile responsive tool
+plz tool should be fasts enough don’t block and give users intant results with features 
+ok …… now this is 2F1313 and use as text on page my colour for header and footer E5CD6C thisis logo colour and F9F3B9 is the background of my website and #E5CD6C, #AE6427 these two are optional these can be used if any where is suitable ok my condern is that you have to design tool juts to use these colour scheme kept in mind I have tell you all things whsat are my colour scheme and where they are used
