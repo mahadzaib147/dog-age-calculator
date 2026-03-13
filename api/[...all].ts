@@ -4,18 +4,18 @@ import { registerRoutes } from "../server/routes";
 const app = express();
 
 app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: true }));
 
-let initialized = false;
+let isReady = false;
 
-async function init() {
-  if (!initialized) {
+async function setup() {
+  if (!isReady) {
     await registerRoutes({} as any, app);
-    initialized = true;
+    isReady = true;
   }
 }
 
 export default async function handler(req: any, res: any) {
-  await init();
+  await setup();
   return app(req, res);
 }
